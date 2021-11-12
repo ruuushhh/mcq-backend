@@ -8,6 +8,7 @@ requests = "*"
 pymongo = {extras = ["srv"], version = "*"}
 fastapi = "*"
 uvicorn = "*"
+pytest = "*"
 
 [dev-packages]
 autopep8 = "*"
